@@ -8,12 +8,20 @@
 ### :memo: Aulas
 
 #### Ruby Básico
+- [x] Instalando o Ruby
+- [x] Hello Ruby
+- [x] Tipos de Dados
+- [x] Operadores
+- [x] Métodos
+- [x] Loops
+- [x] Hashs (Objetos do Ruby)
+
 #### Ruby OO
 #### Testes Uniários
 
 ### :hammer: Tecnologias
 
  <ul>
-    <li>Ruby</li>
+    <li>Ruby 2.5.8</li>
     <li>Visual Studio Code</li>
 </ul>
