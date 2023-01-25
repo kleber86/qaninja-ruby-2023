@@ -17,7 +17,16 @@
 - [x] Hashs (Objetos do Ruby)
 
 #### Ruby OO
+- [x] Classes
+- [x] Orientação a Objetos
+- [x] Construtores
+- [x] Exceções
+- [x] Herança
+
 #### Testes Uniários
+- [x] Introdução
+- [x] Configurando o RSpec
+- [x] Criando meu primeiro teste
 
 ### :hammer: Tecnologias
 
