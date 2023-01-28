@@ -26,7 +26,7 @@ end
 
 class ContaPoupanca < Conta
 
-  def saca(valor, max = 500, taxa = 1.00)
+  def saca(valor, max = 500, taxa = 1.01)
     super
   end
 end
