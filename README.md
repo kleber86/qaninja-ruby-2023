@@ -27,6 +27,18 @@
 - [x] Introdução
 - [x] Configurando o RSpec
 - [x] Criando meu primeiro teste
+- [x] Validando o resultado esperado
+- [x] Pense BDD
+- [x] TDD na Prática
+- [x] Boas práticas de Refatorações
+- [x] Organização de Código
+- [x] Herança e Conta Poupança
+- [x] Relatórios e Formatos de Saída
+
+#### Relatórios
+<div align="center">
+    <img src="./report.jpeg" width="400">
+</div>
 
 ### :hammer: Tecnologias
 
